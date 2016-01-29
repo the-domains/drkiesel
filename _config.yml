@@ -1,6 +1,6 @@
 name: drkiesel
 favicon: null
-layout_spectrum: 0.4934597557876259
+layout_spectrum: 0.93482
 typography_spectrum: 0.06568998354487121
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#ee9b01'
+    - '#636363'
+    - '#96cd18'
+    - '#f8ce87'
   brandStrength: 0.4742823946289718
   lightness: 0.4213083595968783
   saturation: 0.4588124973233789
-  rhythmicContrast: 0.7930631535127759
+  rhythmicContrast: 0.75
 purpose: []
